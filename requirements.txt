@@ -1,0 +1,4 @@
+matplotlib==3.7.5
+pandas==2.2.3
+protobuf==6.31.0
+streamlit==1.44.0
