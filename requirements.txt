@@ -2,3 +2,4 @@ matplotlib
 pandas
 protobuf
 streamlit
+google-generativeai
